@@ -1,0 +1,16 @@
+name,dob,pan_number,aadhar_number,demat_account,bank_account,phone_number,email,annual_income,investment_experience_years,occupation,residential_status,kyc_verified,risk_category
+Rajesh Kumar,15-03-1985,SPBMZ8436E,7.89632E+11,1.38446E+15,5.64931E+15,9370373920,rajesh.k@email.com,1500000,8,Software Engineer,Resident Individual,TRUE,Medium
+Priya Sharma,22-07-1990,AAXTV3423Z,1.23457E+11,4.71157E+15,8.12919E+15,9171907957,priya.s@email.com,800000,3,Doctor,Resident Individual,TRUE,Low
+Amit Patel,30-11-1988,NAAVN1766K,1.23787E+11,8.86872E+15,8.66864E+14,9364384121,amit.p@email.com,2000000,6,Business Owner,NRI,TRUE,Medium
+Deepika Singh,18-04-1992,AMPOJ2093R,1.27857E+11,8.1454E+15,2.75862E+15,9757973669,deepika.s@email.com,1200000,4,Teacher,Resident Individual,TRUE,Medium
+Suresh Reddy,25-09-1983,VRSVS0672Z,9.23457E+11,6.77151E+15,9.92007E+15,9430396698,suresh.r@email.com,2500000,10,Chartered Accountant,Resident Individual,TRUE,High
+Neha Gupta,12-01-1991,FDOJE4091B,1.45657E+11,6.21188E+15,8.89342E+15,9452808846,neha.g@email.com,900000,2,Lawyer,Resident Individual,TRUE,Low
+Vikram Malhotra,28-06-1987,UNGRG9128U,4.12357E+11,2.9181E+15,2.64983E+15,9465773583,vikram.m@email.com,1800000,7,Bank Manager,NRI,TRUE,Medium
+Anjali Desai,05-12-1989,JKEPI6767Y,1.23458E+11,6.49716E+15,9.6967E+15,9334434522,anjali.d@email.com,1600000,5,Architect,Resident Individual,TRUE,Medium
+Mohammad Khan,14-08-1986,ZNRHC6844Z,1.20057E+11,1.35837E+15,8.34656E+15,9329130450,mohammad.k@email.com,2200000,9,Consultant,Resident Individual,TRUE,High
+Sanjay Verma,20-05-1984,WQMLU2885V,1.23357E+11,5.60093E+15,5.31821E+15,9342960407,sanjay.v@email.com,1400000,4,Professor,Resident Individual,TRUE,Medium
+Pooja Mehta,17-02-1993,QAZMD6652F,1.23445E+11,7.35764E+15,3.11312E+15,9646895108,pooja.m@email.com,1100000,3,Government Employee,Resident Individual,TRUE,Medium
+Karthik Rajan,08-10-1990,YCHQX0814R,1.77857E+11,3.63013E+15,7.35391E+15,9559172432,karthik.r@email.com,1900000,8,Engineer,NRI,TRUE,Medium
+Anita Kapoor,11-07-1988,BWZTC5722Q,7.89442E+11,7.20869E+15,3.65182E+15,9572200292,anita.k@email.com,1300000,5,Business Analyst,Resident Individual,TRUE,Medium
+Rahul Joshi,23-04-1985,CCSGQ5695P,7.89632E+11,5.2319E+15,3.16957E+15,9272188222,rahul.j@email.com,1700000,6,Marketing Manager,Resident Individual,TRUE,Medium
+Meena Krishnan,19-12-1987,AEGND8202V,7.89632E+12,3.72395E+15,3.65977E+15,9865035532,meena.k@email.com,2100000,7,Financial Advisor,Resident Individual,TRUE,High
